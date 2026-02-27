@@ -26,4 +26,4 @@ This project demonstrates an end-to-end machine learning pipeline for classifyin
 The Random Forest model achieved high accuracy on the test dataset.
 
 ## Author
-Anil Kumar
+Anil Pachar
